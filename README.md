@@ -45,7 +45,7 @@ Should you run into issues, please submit a query via your dashboard.
 #### macOS (Terminal)
 
 ```.sh
-bash -c "$(curl -fsSL https://raw.githubusercontent.com/HyperionDevBootcamps/HyperionDev-Web-Development-Development-Environment-Setup/master/macos_ds.sh)"
+bash -c "$(curl -fsSL https://raw.githubusercontent.com/HyperionDevBootcamps/HyperionDev-Web-Development-Development-Environment-Setup/master/macos_wd.sh)"
 ```
 
 #### Windows (Powershell run as an Administrator)
