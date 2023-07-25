@@ -5,7 +5,7 @@ Write-Output "Please ignore any errors concerning tools already installed"
 Write-Output "Press Enter/Return and enter your Windows password whenever prompted to allow installation to proceed"
 
 # Install Chocolatey
-Invoke-Expression (Invoke-WebRequest -URI -UseBasicParsing 'https://community.chocolatey.org/install.ps1').Content
+Invoke-Expression (Invoke-WebRequest -URI 'https://community.chocolatey.org/install.ps1' -UseBasicParsing).Content
 Write-Output "Chocolatey has been installed"
 
 # Install Git
