@@ -65,5 +65,3 @@ bash -c "$(curl -fsSL https://raw.githubusercontent.com/HyperionDevBootcamps/Hyp
 ```.sh
 bash -c "$(curl -fsSL https://raw.githubusercontent.com/HyperionDevBootcamps/HyperionDev-Web-Development-Development-Environment-Setup/master/ubuntu_wd.sh)"
 ```
-
-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
