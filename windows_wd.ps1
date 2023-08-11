@@ -10,11 +10,11 @@ Write-Output "Chocolatey has been installed"
 
 # Install Git
 choco install git
-Write-Output "Git has been instaleld"
+Write-Output "Git has been installed"
 
 # Install Node.js
 choco install nodejs.install
-Write-Output "Node.js hasbeen installed"
+Write-Output "Node.js has been installed"
 
 # Install Visual Studio Code
 choco install vscode
